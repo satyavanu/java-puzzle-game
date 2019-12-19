@@ -1,0 +1,90 @@
+
+.row {
+  display: grid;
+  grid-template-columns: 120px 120px 120px 120px;
+  width: 500px;
+  height: 500px;
+  }
+
+
+  button {
+    font-size: 12px;
+    text-align: center;
+    border: 1px solid #ddd;
+    color: #000;
+    padding: 10px;
+    margin: 30px 0;
+  }
+  [data-t="c1"] {
+    background: url('./assets/row-1-col-1.jpg'); 
+  }
+  
+  [data-t="c2"] {
+    background: url('./assets/row-1-col-2.jpg'); 
+  }
+  
+  
+  [data-t="c3"] {
+    background: url('./assets/row-1-col-3.jpg'); 
+  }
+  
+  [data-t="c4"] {
+    background: url('./assets/row-1-col-4.jpg'); 
+  }
+  
+  
+  [data-t="c5"] {
+    background: url('./assets/row-2-col-1.jpg'); 
+  }
+  
+  [data-t="c6"] {
+    background: url('./assets/row-2-col-2.jpg'); 
+  }
+  
+  
+  [data-t="c7"] {
+    background: url('./assets/row-2-col-3.jpg'); 
+  }
+  
+  [data-t="c8"] {
+    background: url('./assets/row-2-col-4.jpg'); 
+  }
+  
+  [data-t="c9"] {
+    background: url('./assets/row-3-col-1.jpg'); 
+  }
+  
+  [data-t="c10"] {
+    background: url('./assets/row-3-col-2.jpg'); 
+  }
+  
+  
+  [data-t="c11"] {
+    background: url('./assets/row-3-col-3.jpg'); 
+  }
+  
+  [data-t="c12"] {
+    background: url('./assets/row-3-col-4.jpg'); 
+  }
+  
+  [data-t="c13"] {
+    background: url('./assets/row-4-col-1.jpg'); 
+  }
+  
+  [data-t="c14"] {
+    background: url('./assets/row-4-col-2.jpg'); 
+  }
+  
+  
+  [data-t="c15"] {
+    background: url('./assets/row-4-col-3.jpg'); 
+  }
+  
+  [data-t="c16"] {
+
+    background: white; 
+  }
+  
+  
+  
+  
